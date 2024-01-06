@@ -1,2 +1,2 @@
-# may-first-repository
+# my-first-repository
 My First Repository
